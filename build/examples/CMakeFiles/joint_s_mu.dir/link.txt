@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g  -rdynamic CMakeFiles/joint_s_mu.dir/joint_s_mu.cpp.o  -o joint_s_mu   -L/usr/lib/x86_64-linux-gun  -L/home/kevin/rci/lib  -Wl,-rpath,/usr/lib/x86_64-linux-gun:/home/kevin/rci/lib -Wl,-Bstatic -lRCI_Client -lxMateModel -lorocos-kdl -lglog -Wl,-Bdynamic -lpthread 
